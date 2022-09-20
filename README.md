@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/AbdouAI/productwebsite.github.io)
+- Live Site URL:(https://abdouai.github.io/productwebsite.github.io/)
 
 ## My process
 
